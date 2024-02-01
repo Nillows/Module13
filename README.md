@@ -58,15 +58,15 @@ Nillows
 This project is covered under the MIT license.
 
 ## Features
-1. View All Categories
+1. View all or one Categories
 2. Create New Categories
 3. Update Existing Categories
 4. Delete Categories
-5. View All Products
+5. View all or one Products
 6. Create New Products
 7. Update Existing Products
 8. Delete Products
-9. View All Product Tags
+9. View all or one Product Tags
 10. Create New Product Tags
 11. Update Existing Product Tags
 12. Delete Product Tags
