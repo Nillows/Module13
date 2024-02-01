@@ -4,7 +4,7 @@
 ## Description 
 This project is a plug and play back end to create, read, update, and destroy information in an integrated MySQL database with pre-built routes to attach to your front end!
 
-## [Video Link](https://streamable.com/ktu8uh)
+## [Video Link](https://streamable.com/gy8r0u)
 
 ## Table of Contents
 - [Installation](#installation)
